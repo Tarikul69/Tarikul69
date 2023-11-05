@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tarikul Abir</h1>
-<h3 align="center">Full Stack Web Developer | Laravel | Flutter | MongoDB |Reactjs</h3>
+<h1 align="center">Hi 👋, I'm Kazi Md Tarikul Imam</h1>
+<h3 align="center">Artificial Intelligence | Machine Learning | Cybersecurity | Laravel | Flutter </h3>
  
 <p align="center"> <b>American International University Bangladesh(AIUB) <b/><br/>
       Department of <b>Computer Engineering</b> </P>
